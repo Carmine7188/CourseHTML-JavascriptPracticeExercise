@@ -1,1 +1,1 @@
-# CourseHTML-JavascriptPractice
+# CourseHTML-JavascriptPracticeExercise
